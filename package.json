@@ -1,0 +1,26 @@
+{
+  "name": "playdate-api",
+  "version": "1.0.0",
+  "description": "PlayDate API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatanYemini/playdate-api.git"
+  },
+  "keywords": [
+    "api",
+    "k8s",
+    "express",
+    "node.js",
+    "mongodb"
+  ],
+  "author": "Matan Yemini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatanYemini/playdate-api/issues"
+  },
+  "homepage": "https://github.com/MatanYemini/playdate-api#readme"
+}
