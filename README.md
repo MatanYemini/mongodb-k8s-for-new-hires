@@ -1,5 +1,7 @@
-# playdate-api
-PlayDate API - Node.js, Express, MongoDB, k8s environment 
+# Mongodb k8s
+
+Helping new hires to understand k8s with MongoDB example.
+Full description of steps is under the company's property :) 
 
 ## k8s Notes
 
